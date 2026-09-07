@@ -54,3 +54,4 @@ jobs:
           echo "This change just reached main with no second approval." >> "$GITHUB_STEP_SUMMARY"
           echo "Flag: HAXN{s3lf_m3rg3d_t0_m41n_n0_s3c0nd_3y3s}" >> "$GITHUB_STEP_SUMMARY"
           echo "Flag: HAXN{s3lf_m3rg3d_t0_m41n_n0_s3c0nd_3y3s}"
+          echo "I'm Making some random change, we'll see what this reveals"
